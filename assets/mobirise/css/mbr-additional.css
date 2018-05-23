@@ -1771,97 +1771,6 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-qSAkEzhsLh {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-qSAkEzhsLh .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qSBo9YERMy {
-  padding-top: 45px;
-  padding-bottom: 75px;
-  background-color: #efefef;
-}
-.cid-qSBo9YERMy .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-}
-.cid-qSBo9YERMy .container-table {
-  margin: 0 auto;
-}
-.cid-qSBo9YERMy .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-qSBo9YERMy .dataTables_wrapper {
-  display: block;
-}
-.cid-qSBo9YERMy .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-qSBo9YERMy .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-qSBo9YERMy table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #767676;
-  margin-bottom: 0;
-}
-.cid-qSBo9YERMy table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-qSBo9YERMy table th:hover {
-  background: #767676;
-  color: #ffffff;
-}
-.cid-qSBo9YERMy table td {
-  border-top: 1px solid #767676;
-}
-.cid-qSBo9YERMy .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qSBo9YERMy .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qSBo9YERMy .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qSBo9YERMy .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qSBo9YERMy .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qSBo9YERMy .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qSBo9YERMy .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-qSBo9YERMy .head-item {
-  text-align: center;
-}
-.cid-qSBo9YERMy .body-item {
-  text-align: center;
-}
 .cid-qRKc5IllIT {
   padding-top: 15px;
   padding-bottom: 60px;
@@ -2201,13 +2110,13 @@ body {
   }
 }
 .cid-qRMtFHdCDA .navbar {
-  background: #ffffff;
+  background: #a5d6a5;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qRMtFHdCDA .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #a5d6a5;
 }
 .cid-qRMtFHdCDA a {
   font-style: normal;
@@ -2291,7 +2200,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qRMtFHdCDA .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #a5d6a5;
   display: none;
   position: absolute;
   min-width: 5rem;
